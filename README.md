@@ -87,24 +87,29 @@ All information will be stored securely. Some information will be used for the s
 Some information will be further processed, to make it non-identifiable. This means removing anything that would allow you or your be identified. These non-identifiable data will then be used to answer the research questions, and may be shared with other researchers and students, and published.
 
 For all study participants we will collect:
-Temporarily for study management only: Names, addresses, date of birth, video recordings 
-For long term storage within the study team only: sex, child’s views on devices, core device ECG recordings, core device movement recordings (acceleration), information on the child’s developmental capacity. 
-For non-identifiable analysis, use and sharing: age in months, sex, index of multiple deprivation, themes about children’s views, ECG recordings, acceleration recordings, developmental capacity summary descriptions
+- Temporarily for study management only: Names, addresses, date of birth, video recordings 
+- For long term storage within the study team only: sex, child’s views on devices, core device ECG recordings, core device movement recordings (acceleration), information on the child’s developmental capacity. 
+- For non-identifiable analysis, use and sharing: age in months, sex, index of multiple deprivation, themes about children’s views, ECG recordings, acceleration recordings, developmental capacity summary descriptions
+
 For all participants who wish to use the ethnographic research methods we will collect:
-Temporarily for study management only: the researcher’s diary notes; parent diary notes; observations made by the researcher; video recordings and/or photos within daily life.
-For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
-For non-identifiable analysis, use and sharing and sharing with other researchers: non-identifiable summary of diary information, non-identifiable summary of observations, non-identifiable video/photos 
+- Temporarily for study management only: the researcher’s diary notes; parent diary notes; observations made by the researcher; video recordings and/or photos within daily life.
+- For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
+- For non-identifiable analysis, use and sharing and sharing with other researchers: non-identifiable summary of diary information, non-identifiable summary of observations, non-identifiable video/photos 
+
 For all participants who wear the Emotibit we will collect:
-For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
-For non-identifiable analysis, use and sharing and sharing with other researchers: photoplethysmogram (pulse rate) recordings, humidity and temperature recordings, accelerometer (movement) recordings, skin conductance recordings, body temperature recordings. 
+- For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
+- For non-identifiable analysis, use and sharing and sharing with other researchers: photoplethysmogram (pulse rate) recordings, humidity and temperature recordings, accelerometer (movement) recordings, skin conductance recordings, body temperature recordings. 
+
 For all participants who wear the respiration monitor (napping pants) we will collect:
-For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
-For non-identifiable analysis, use and sharing and sharing with other researchers:  respiration rate, and movements (collected only during sleep), allowing us to assess sleep quality.
+- For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
+- For non-identifiable analysis, use and sharing and sharing with other researchers:  respiration rate, and movements (collected only during sleep), allowing us to assess sleep quality.
+- 
 For all participants who wear the Maiju Suit we will collect:
-For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
-For non-identifiable analysis, use and sharing and sharing with other researchers:  detailed acceleration and gyroscope data that allows identification of movement types (collected only for a short period of time). 
+- For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
+- For non-identifiable analysis, use and sharing and sharing with other researchers:  detailed acceleration and gyroscope data that allows identification of movement types (collected only for a short period of time). 
+
 For all participants who have hair sample taken we will collect:
-For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
-For non-identifiable analysis, use and sharing and sharing with other researchers:  concentration of cortisol in the hair sample.
+- For long term storage within the study team only: A confidential, unique study ID linking the data to a study participant.
+- For non-identifiable analysis, use and sharing and sharing with other researchers:  concentration of cortisol in the hair sample.
 
 
