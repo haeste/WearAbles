@@ -1,3 +1,5 @@
+Aims
+------
 The present project contributes to an overall purpose of developing wearable technologies to objectively and longitudinally measure young children’s (≤3yrs) health behaviours and physiological states within their everyday activity and lives.
 
 The specific aims of the present study are: 
@@ -8,7 +10,11 @@ The specific aims of the present study are:
 
 The specific questions the present study seeks to answer relate to both the feasibility of data collection and the quality of the data collected.
 
+Ethics
+------
 This study has been granted ethical approval by the ethics committee of the Faculty of Medical Sciences at Newcastle University. 
 
+Devices
+------
 
-
+![My helpful screenshot]({{ site.url }}./Bittium_Faros.png)
