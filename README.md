@@ -10,6 +10,7 @@ The specific aims of the present study are:
 
 The specific questions the present study seeks to answer relate to both the feasibility of data collection and the quality of the data collected.
 ![My helpful screenshot]({{ site.url }}/childballpool.jpg)
+
 Ethics
 ------
 This study has been granted ethical approval by the ethics committee of the Faculty of Medical Sciences at Newcastle University. 
@@ -64,6 +65,7 @@ Napping Pants (Respiration monitor)
 -	Helps us to understand the child’s sleep quality.
 
 Data Management
+------
 
 What data will we collect?
 If you take part, we will hold information collected from you and your child. We seek three types of information, but you will choose which of these you are happy to provide, or not.
