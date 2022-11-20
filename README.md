@@ -9,7 +9,7 @@ The specific aims of the present study are:
 2. To develop and validate analytic methods for the resulting data. 
 
 The specific questions the present study seeks to answer relate to both the feasibility of data collection and the quality of the data collected.
-
+![My helpful screenshot]({{ site.url }}/childballpool.jpg)
 Ethics
 ------
 This study has been granted ethical approval by the ethics committee of the Faculty of Medical Sciences at Newcastle University. 
@@ -25,7 +25,7 @@ Core device: Bittium Heart Rate Monitor
 
 
 Optional Devices:
-<img style="float: right;" src="{{ site.url }}./EmotiBit.webp">
+<img style="float: right; width: 10%;" src="{{ site.url }}./EmotiBit.webp">
 Emotibit
 -	Worn on the arm or leg, records the pulse rate, skin conductance and temperature, and movements. 
 -	Short battery life so would only be worn for a short time.
