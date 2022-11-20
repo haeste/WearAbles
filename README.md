@@ -16,5 +16,10 @@ This study has been granted ethical approval by the ethics committee of the Facu
 
 Devices
 ------
-
+Core device: Bittium Heart Rate Monitor
+-	Small and light (18 grams, 48 x 29 x 12 mm) 
+-	Sticks on to the chest using a sensitive skin patch.
+-	Records the electrical signal produced by the heart beat (ECG).
+-	Also records movements. 
+<img style="float: right;" src="{{ site.url }}./Bittium_Faros.png">
 ![My helpful screenshot]({{ site.url }}./Bittium_Faros.png)
