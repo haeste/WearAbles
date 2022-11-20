@@ -22,4 +22,13 @@ Core device: Bittium Heart Rate Monitor
 -	Records the electrical signal produced by the heart beat (ECG).
 -	Also records movements. 
 <img style="float: right;" src="{{ site.url }}./Bittium_Faros.png">
-![My helpful screenshot]({{ site.url }}./Bittium_Faros.png)
+
+Optional Devices:
+Emotibit
+-	Worn on the arm or leg, records the pulse rate, skin conductance and temperature, and movements. 
+-	Short battery life so would only be worn for a short time.
+-	Requires adult supervision while worn.
+-	More info: https://www.emotibit.com/ 
+<img style="float: right;" src="{{ site.url }}./EmotiBit.png">
+
+
