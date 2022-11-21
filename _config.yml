@@ -27,7 +27,7 @@ url: "https://haeste.github.io/WearAbles/" # the base hostname & protocol for yo
 github_username:  haeste
 
 # Build settings
-remote_theme: /johno/pixyll
+remote_theme: johno/pixyll
 plugins:
   - jekyll-responsive-image
   - jekyll-remote-theme # add this line to the plugins list if you already have one
