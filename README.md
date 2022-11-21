@@ -1,5 +1,5 @@
 Aims
-______
+==================
 The present project contributes to an overall purpose of developing wearable technologies to objectively and longitudinally measure young children’s (≤3yrs) health behaviours and physiological states within their everyday activity and lives.
 
 The specific aims of the present study are: 
@@ -12,11 +12,11 @@ The specific questions the present study seeks to answer relate to both the feas
 ![My helpful screenshot]({{ site.url }}/childballpool.jpg)
 
 Ethics
-------
+==================
 This study has been granted ethical approval by the ethics committee of the Faculty of Medical Sciences at Newcastle University. 
 
 What will the research involve
-------
+==================
 The study involves up to four steps. If you decide to take part, you and your child can stop at any of the steps – you do not have to go through all of them. You can also choose to skip steps, and you can make those decisions at any time.
 Steps 1 and 2 happen at the University, on a single visit lasting 60-90 minutes.
 Step 1: Is to meet us in person, to get setup for the study. 
@@ -42,9 +42,11 @@ Step 4 a feedback session with you, at your preferred location.
 -	This will be within 2-3 weeks from the end of your study participation. 
 
 Devices
+==================
+
+Core device: Bittium Heart Rate Monitor
 ------
 <img style="float: right;" src="{{ site.url }}./Bittium_Faros.png">
-Core device: Bittium Heart Rate Monitor
 -	Small and light (18 grams, 48 x 29 x 12 mm) 
 -	Sticks on to the chest using a sensitive skin patch.
 -	Records the electrical signal produced by the heart beat (ECG).
@@ -52,22 +54,27 @@ Core device: Bittium Heart Rate Monitor
 
 
 Optional Devices:
-<img style="float: right; width: 40%;" src="{{ site.url }}./EmotiBit.webp">
+------
 Emotibit
+=
+<img style="float: right; width: 40%;" src="{{ site.url }}./EmotiBit.webp">
 -	Worn on the arm or leg, records the pulse rate, skin conductance and temperature, and movements. 
 -	Short battery life so would only be worn for a short time.
 -	Requires adult supervision while worn.
 -	More info: https://www.emotibit.com/ 
 
-<img style="float: right;" src="{{ site.url }}./napping.jpg">
+
 Napping Pants (Respiration monitor)
+=
+<img style="float: right;" src="{{ site.url }}./napping.jpg">
 -	A soft fabric with a built-in sensor, placed on top of the nappy, to track your child’s breathing while they sleep.
 -	Helps us to understand the child’s sleep quality.
 
 Data Management
-------
+==================
 
 What data will we collect?
+=
 If you take part, we will hold information collected from you and your child. We seek three types of information, but you will choose which of these you are happy to provide, or not.
 BASIC INFORMATION about your family and child:
 -	Your contact details so that we can keep in touch with you, and
