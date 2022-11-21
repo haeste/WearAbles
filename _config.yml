@@ -21,7 +21,7 @@
 title: WearAbles Study
 email: chris.thornton@ncl.ac.uk
 description: We are trying to use wearable devices to understand the physical activity, stress, and sleep patterns of children aged 4 - 36 months. 
-baseurl: "/README.MD" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haeste.github.io/WearAbles/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  haeste
