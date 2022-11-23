@@ -1,5 +1,3 @@
-The WearAbles Project
-==================
 
 Aims
 ------
