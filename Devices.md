@@ -1,5 +1,8 @@
-Devices
-======
+---
+layout: page
+title: Devices
+permalink: /devices/
+---
 
 Core device: Bittium Heart Rate Monitor
 ------
