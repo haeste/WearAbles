@@ -31,3 +31,5 @@ Step 4 a feedback session with you, at your preferred location.
 
 -	We will provide feedback to you on your child’s specific data
 -	This will be within 2-3 weeks from the end of your study participation.
+
+The full protocol for the project can be found at: https://doi.org/10.25405/data.ncl.21608838
