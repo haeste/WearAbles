@@ -12,7 +12,7 @@ url: "https://haeste.github.io/WearAbles/" # the base hostname & protocol for yo
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b, %Y"
 
 
 # If you want to link only specific pages in your header, uncomment
