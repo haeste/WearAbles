@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bittium Faros Device Has Arrived"
-date:   2022-11-14 14:30:57 +0000
+date:   2022-10-15 14:30:57 +0000
 categories: project update
 ---
 
