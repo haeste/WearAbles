@@ -25,5 +25,6 @@ header_pages:
 theme: minima
 
 plugins:
+ - jekyll-responsive-image
  - jekyll-feed
  - jekyll-seo-tag
