@@ -27,7 +27,7 @@ root: /
 github_username:  haeste
 
 # Build settings
-theme: minima
+remote_theme: verfasor/sparrowx
 plugins:
   - jekyll-responsive-image
   - jekyll-remote-theme # add this line to the plugins list if you already have one
