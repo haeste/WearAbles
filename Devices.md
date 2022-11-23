@@ -1,5 +1,7 @@
-Devices
-==================
+layout: page
+title: "Devices"
+permalink: /URL-PATH
+
 
 Core device: Bittium Heart Rate Monitor
 ------
