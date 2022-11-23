@@ -1,5 +1,8 @@
-What will the research involve
-------
+---
+layout: page
+title: What will the research involve
+permalink: /research/
+---
 
 ![My helpful screenshot]({{ site.url }}/childballpool.jpg)
 
