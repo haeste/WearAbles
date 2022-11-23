@@ -1,5 +1,9 @@
-Data Management
-==================
+
+---
+layout: page
+title: Data Management
+permalink: /datamanagement/
+---
 
 What data will we collect?
 ------
