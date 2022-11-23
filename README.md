@@ -10,7 +10,7 @@ The specific aims of the present study are:
 2. To develop and validate analytic methods for the resulting data. 
 
 The specific questions the present study seeks to answer relate to both the feasibility of data collection and the quality of the data collected.
-![My helpful screenshot]({{ site.url }}/childballpool.jpg)
+
 
 Ethics
 ------
