@@ -1,6 +1,9 @@
+---
+layout: page
+title: Study Aims
+permalink: /aims/
+---
 
-Aims
-------
 The present project contributes to an overall purpose of developing wearable technologies to objectively and longitudinally measure young children’s (≤3yrs) health behaviours and physiological states within their everyday activity and lives.
 
 The specific aims of the present study are: 
